@@ -48,7 +48,7 @@
             text-transform: uppercase;
             letter-spacing: 2px;
             margin-top: 20px;
-            padding-bottom: 40px; /* Added padding below skills overview */
+            padding-bottom: 40px;
         }
 
         /* Skills Circle */
@@ -62,19 +62,20 @@
 
         .skill {
             text-align: center;
-            flex: 1 1 150px; /* Flexible basis for responsive layout */
-            max-width: 150px; /* Maximum width for circles */
+            flex: 1 1 150px;
+            max-width: 150px;
         }
 
         .skill-circle {
-            height: 150px; /* Fixed height for desktop */
-            width: 150px; /* Fixed width for desktop */
+            height: 150px;
+            width: 150px;
             border-radius: 50%;
+            margin-bottom: 15px; /* Added space between circle and title */
         }
 
         /* About Section */
         .about-section {
-            height: calc(100vh - 50px);
+            min-height: calc(100vh - 50px);
             padding: 50px;
             display: flex;
             align-items: center;
@@ -83,48 +84,48 @@
 
         .about-content {
             display: flex;
-            flex-direction: row; /* Side by side layout on larger screens */
+            flex-direction: row;
             align-items: center;
-            width: 100%; /* Full width for responsiveness */
+            width: 100%;
         }
 
         .about-image {
-            width: 300px; /* Fixed width for desktop */
-            height: 300px; /* Fixed height for desktop */
+            width: 300px;
+            height: 300px;
             border-radius: 50%;
             object-fit: cover;
         }
 
         .about-text {
-            padding-left: 50px; /* Spacing between image and text */
-            flex: 1; /* Allow text to take remaining space */
+            padding-left: 50px;
+            flex: 1;
         }
 
         @media (max-width: 600px) {
             .about-content {
-                flex-direction: column; /* Stack layout on smaller screens */
-                align-items: center; /* Center align items */
+                flex-direction: column;
+                align-items: center;
             }
 
             .about-image {
-                width: 80%; /* Responsive image width */
-                max-width: 300px; /* Maximum image size */
-                height: auto; /* Maintain aspect ratio */
-                margin-bottom: 20px; /* Space below the image */
+                width: 80%;
+                max-width: 300px;
+                height: auto;
+                margin-bottom: 20px;
             }
 
             .about-text {
-                padding-left: 0; /* Remove left padding on smaller screens */
-                text-align: center; /* Center text on smaller screens */
+                padding-left: 0;
+                text-align: center;
             }
 
             .skills-section {
-                justify-content: flex-start; /* Align items to the start on mobile */
-                padding: 20px; /* Add padding to the section */
+                justify-content: flex-start;
+                padding: 20px;
             }
 
             .skills-overview {
-                padding-bottom: 20px; /* Increased padding between the overview and circles */
+                padding-bottom: 20px;
             }
         }
     </style>
