@@ -48,6 +48,7 @@
             text-transform: uppercase;
             letter-spacing: 2px;
             margin-top: 20px;
+            padding-bottom: 40px; /* Added padding below skills overview */
         }
 
         /* Skills Circle */
@@ -109,11 +110,17 @@
                 width: 80%; /* Responsive image width */
                 max-width: 300px; /* Maximum image size */
                 height: auto; /* Maintain aspect ratio */
+                margin-bottom: 20px; /* Space below the image */
             }
 
             .about-text {
                 padding-left: 0; /* Remove left padding on smaller screens */
                 text-align: center; /* Center text on smaller screens */
+            }
+
+            .skills-section {
+                justify-content: flex-start; /* Align items to the start on mobile */
+                padding: 20px; /* Add padding to the section */
             }
         }
     </style>
