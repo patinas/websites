@@ -66,52 +66,54 @@
         }
 
         .skill-circle {
-            height: 100px; /* Responsive height */
-            width: 100px; /* Responsive width */
+            height: 150px; /* Fixed height for desktop */
+            width: 150px; /* Fixed width for desktop */
             border-radius: 50%;
         }
 
         /* About Section */
         .about-section {
             height: calc(100vh - 50px);
-            padding: 20px; /* Responsive padding */
+            padding: 50px;
             display: flex;
-            flex-direction: column;
             align-items: center;
             background-color: white;
         }
 
         .about-content {
             display: flex;
-            flex-direction: column;
+            flex-direction: row; /* Side by side layout on larger screens */
             align-items: center;
             width: 100%; /* Full width for responsiveness */
         }
 
         .about-image {
-            width: 80%; /* Responsive image width */
-            max-width: 300px; /* Maximum image size */
-            height: auto; /* Maintain aspect ratio */
+            width: 300px; /* Fixed width for desktop */
+            height: 300px; /* Fixed height for desktop */
             border-radius: 50%;
             object-fit: cover;
         }
 
         .about-text {
-            padding: 20px;
+            padding-left: 50px; /* Spacing between image and text */
+            flex: 1; /* Allow text to take remaining space */
         }
 
-        @media (min-width: 600px) {
-            .about-section {
-                flex-direction: row; /* Side by side layout on larger screens */
+        @media (max-width: 600px) {
+            .about-content {
+                flex-direction: column; /* Stack layout on smaller screens */
+                align-items: center; /* Center align items */
             }
 
             .about-image {
-                width: 40%; /* Image width for larger screens */
-                margin-right: 20px; /* Spacing between image and text */
+                width: 80%; /* Responsive image width */
+                max-width: 300px; /* Maximum image size */
+                height: auto; /* Maintain aspect ratio */
             }
 
             .about-text {
-                width: 60%; /* Text width for larger screens */
+                padding-left: 0; /* Remove left padding on smaller screens */
+                text-align: center; /* Center text on smaller screens */
             }
         }
     </style>
