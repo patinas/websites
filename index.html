@@ -3,133 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Andreas Patinas - Skills & About</title>
-    <style>
-        html {
-            scroll-behavior: smooth;
-        }
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            overflow-x: hidden;
-        }
-        .navbar {
-            background-color: black;
-            padding: 15px;
-            display: flex;
-            justify-content: center;
-        }
-        .navbar a {
-            color: white;
-            margin-right: 20px;
-            text-decoration: none;
-        }
-        .section {
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: #f2f2f2;
-        }
-        .about-section {
-            height: 100vh;
-            padding: 50px 20px;
-            background-color: white;
-        }
-        h1, h2 {
-            margin: 0;
-            text-transform: uppercase;
-            letter-spacing: 1.5px;
-        }
-        img {
-            width: 300px;
-            height: 300px;
-            border-radius: 10px;
-        }
-        .skills-container {
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-        .skills-circle {
-            height: 150px;
-            width: 150px;
-            border-radius: 50%;
-            display: inline-block;
-        }
-        .skills-circle p {
-            margin-top: 10px;
-            text-align: center;
-        }
-    </style>
+    <title>Andreas Patinas - Skills Infographic</title>
 </head>
-<body>
+<body style="margin: 0; font-family: Arial, sans-serif; overflow: hidden;">
 
-    <!-- Navbar -->
-    <div class="navbar">
-        <a href="#about">ABOUT</a>
-        <a href="#skills">SKILLS</a>
+    <!-- Centered Navbar -->
+    <div style="background-color: black; padding: 15px; display: flex; justify-content: center;">
+        <a href="#about" style="color: white; margin-right: 20px; text-decoration: none;">ABOUT</a>
+        <a href="#skills" style="color: white; text-decoration: none;">SKILLS</a>
     </div>
 
-    <!-- Home Section -->
-    <div id="home" class="section">
-        <div>
-            <h1>Andreas Patinas</h1>
-            <div style="height: 200px; width: 200px; background-color: blue; border-radius: 50%;"></div>
-            <p>Creative Developer & Designer</p>
-        </div>
-    </div>
+    <!-- Infographic Section, centered and fits the viewport height without scrolling -->
+    <div style="height: calc(100vh - 50px); display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #f2f2f2;">
+        <h1 style="text-transform: uppercase; letter-spacing: 1.5px; margin: 0;">Andreas Patinas</h1>
+        <p style="text-transform: uppercase; letter-spacing: 2px; margin-top: 20px;">Skills Overview</p>
 
-    <!-- About Section -->
-    <div id="about" class="about-section">
-        <h2>About Me</h2>
-        <div style="display: flex; gap: 20px; margin-top: 20px;">
-            <img src="https://via.placeholder.com/300" alt="Profile Image Placeholder">
-            <div>
-                <h3>Education</h3>
-                <p><strong>Master's in IT Architecture</strong><br>University of XYZ, 2022</p>
-                <p><strong>Bachelor's in Computer Science</strong><br>University of ABC, 2018</p>
-                
-                <h3>Experience</h3>
-                <p><strong>IT Architect Intern</strong><br>ABC Technologies, 2023</p>
-                <p><strong>Software Developer</strong><br>XYZ Innovations, 2019-2022</p>
-
-                <h3>Certifications</h3>
-                <p>Linux Professional Institute Certification (LPIC-1)</p>
-                <p>Microsoft Certified: Azure Fundamentals</p>
+        <!-- Skills Circle -->
+        <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: blue; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">Linux</p>
+            </div>
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: green; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">Docker</p>
+            </div>
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: orange; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">Windows</p>
             </div>
         </div>
-    </div>
 
-    <!-- Skills Section -->
-    <div id="skills" class="section">
-        <div>
-            <h2>Skills Overview</h2>
-            <div class="skills-container">
-                <div style="text-align: center;">
-                    <div class="skills-circle" style="background-color: blue;"></div>
-                    <p>Linux</p>
-                </div>
-                <div style="text-align: center;">
-                    <div class="skills-circle" style="background-color: green;"></div>
-                    <p>Docker</p>
-                </div>
-                <div style="text-align: center;">
-                    <div class="skills-circle" style="background-color: orange;"></div>
-                    <p>Windows</p>
-                </div>
+        <div style="display: flex; gap: 20px; margin-top: 30px; flex-wrap: wrap; justify-content: center;">
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: red; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">Kubernetes</p>
             </div>
-
-            <div class="skills-container" style="margin-top: 30px;">
-                <div style="text-align: center;">
-                    <div class="skills-circle" style="background-color: red;"></div>
-                    <p>Kubernetes</p>
-                </div>
-                <div style="text-align: center;">
-                    <div class="skills-circle" style="background-color: purple;"></div>
-                    <p>PowerShell</p>
-                </div>
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: purple; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">PowerShell</p>
             </div>
         </div>
     </div>
