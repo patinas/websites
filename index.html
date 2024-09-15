@@ -4,63 +4,161 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Andreas Patinas - Skills Infographic</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Fixed Centered Navbar */
+        .navbar {
+            background-color: black;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+
+        .navbar a {
+            color: white;
+            margin-right: 20px;
+            text-decoration: none;
+        }
+
+        /* Infographic Section */
+        .skills-section {
+            height: calc(100vh - 50px);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: #f2f2f2;
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        .skills-section h1, .skills-section p {
+            margin: 0;
+        }
+
+        .skills-overview {
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 20px;
+        }
+
+        /* Skills Circle */
+        .skills-container {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .skill {
+            text-align: center;
+            flex: 1 1 150px; /* Flexible basis for responsive layout */
+            max-width: 150px; /* Maximum width for circles */
+        }
+
+        .skill-circle {
+            height: 100px; /* Responsive height */
+            width: 100px; /* Responsive width */
+            border-radius: 50%;
+        }
+
+        /* About Section */
+        .about-section {
+            height: calc(100vh - 50px);
+            padding: 20px; /* Responsive padding */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: white;
+        }
+
+        .about-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%; /* Full width for responsiveness */
+        }
+
+        .about-image {
+            width: 80%; /* Responsive image width */
+            max-width: 300px; /* Maximum image size */
+            height: auto; /* Maintain aspect ratio */
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        .about-text {
+            padding: 20px;
+        }
+
+        @media (min-width: 600px) {
+            .about-section {
+                flex-direction: row; /* Side by side layout on larger screens */
+            }
+
+            .about-image {
+                width: 40%; /* Image width for larger screens */
+                margin-right: 20px; /* Spacing between image and text */
+            }
+
+            .about-text {
+                width: 60%; /* Text width for larger screens */
+            }
+        }
+    </style>
 </head>
-<body style="margin: 0; font-family: Arial, sans-serif;">
+<body>
 
-    <!-- Fixed Centered Navbar -->
-    <div style="background-color: black; padding: 15px; display: flex; justify-content: center; position: fixed; top: 0; width: 100%; z-index: 1000;">
-        <a href="#about" style="color: white; margin-right: 20px; text-decoration: none;">ABOUT</a>
-        <a href="#skills" style="color: white; text-decoration: none;">SKILLS</a>
+    <div class="navbar">
+        <a href="#about">ABOUT</a>
+        <a href="#skills">SKILLS</a>
     </div>
 
-    <!-- Infographic Section, centered and fits the viewport height -->
-    <div id="skills" style="height: calc(100vh - 50px); display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #f2f2f2; margin-top: 50px;">
-        <h1 style="text-transform: uppercase; letter-spacing: 1.5px; margin: 0;">Andreas Patinas</h1>
-        <p style="text-transform: uppercase; letter-spacing: 2px; margin-top: 20px;">Skills Overview</p>
+    <div id="skills" class="skills-section">
+        <h1>Andreas Patinas</h1>
+        <p class="skills-overview">Skills Overview</p>
 
-        <!-- Skills Circle -->
-        <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-            <div style="text-align: center;">
-                <div style="height: 150px; width: 150px; background-color: blue; border-radius: 50%;"></div>
-                <p style="margin-top: 10px;">Linux</p>
+        <div class="skills-container">
+            <div class="skill">
+                <div class="skill-circle" style="background-color: blue;"></div>
+                <p>Linux</p>
             </div>
-            <div style="text-align: center;">
-                <div style="height: 150px; width: 150px; background-color: green; border-radius: 50%;"></div>
-                <p style="margin-top: 10px;">Docker</p>
+            <div class="skill">
+                <div class="skill-circle" style="background-color: green;"></div>
+                <p>Docker</p>
             </div>
-            <div style="text-align: center;">
-                <div style="height: 150px; width: 150px; background-color: orange; border-radius: 50%;"></div>
-                <p style="margin-top: 10px;">Windows</p>
+            <div class="skill">
+                <div class="skill-circle" style="background-color: orange;"></div>
+                <p>Windows</p>
             </div>
-        </div>
-
-        <div style="display: flex; gap: 20px; margin-top: 30px; flex-wrap: wrap; justify-content: center;">
-            <div style="text-align: center;">
-                <div style="height: 150px; width: 150px; background-color: red; border-radius: 50%;"></div>
-                <p style="margin-top: 10px;">Kubernetes</p>
+            <div class="skill">
+                <div class="skill-circle" style="background-color: red;"></div>
+                <p>Kubernetes</p>
             </div>
-            <div style="text-align: center;">
-                <div style="height: 150px; width: 150px; background-color: purple; border-radius: 50%;"></div>
-                <p style="margin-top: 10px;">PowerShell</p>
+            <div class="skill">
+                <div class="skill-circle" style="background-color: purple;"></div>
+                <p>PowerShell</p>
             </div>
         </div>
     </div>
 
-        <!-- About Section -->
-        <div id="about" style="height: calc(100vh - 50px); padding: 50px; display: flex; align-items: center; background-color: white;">
-            <div style="width: 40%; display: flex; justify-content: center;">
-                <!-- Larger Image with Perfect Circle and No Stretching -->
-                <img src="https://lh6.googleusercontent.com/R-UMaYv5e5dKArhgkmPrQqIyFF1nTsvs0V3PqH_K0ESRIj2gYxAZgFrbPBsGfqhvrGsR3rEuk-qZyNnBFDU6k1PaascC9FOOs5Fw0_d8FW9uw-nLohPnVEV3LEVOoOc6eQ=w1280" 
-                alt="Andreas Patinas" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
-            </div>
-            <div style="width: 60%; padding-left: 50px;">
-                <h2 style="margin-top: 0;">ABOUT</h2>
-                <p>
-                    With strong technical skills in server administration, Linux, Windows systems, and the advanced use of containerization technologies like Docker, I strive to master the latest IT solutions and bring valuable insights to any team. 
-                </p>
-                <p>
-                    My background in IT, combined with my creative history in graphic design, provides me with a unique ability to think innovatively and solve complex problems in creative ways.
-                </p>
+    <div id="about" class="about-section">
+        <div class="about-content">
+            <img src="https://lh6.googleusercontent.com/R-UMaYv5e5dKArhgkmPrQqIyFF1nTsvs0V3PqH_K0ESRIj2gYxAZgFrbPBsGfqhvrGsR3rEuk-qZyNnBFDU6k1PaascC9FOOs5Fw0_d8FW9uw-nLohPnVEV3LEVOoOc6eQ=w1280" 
+            alt="Andreas Patinas" class="about-image">
+            <div class="about-text">
+                <h2>ABOUT</h2>
+                <p>With strong technical skills in server administration, Linux, Windows systems, and the advanced use of containerization technologies like Docker, I strive to master the latest IT solutions and bring valuable insights to any team.</p>
+                <p>My background in IT, combined with my creative history in graphic design, provides me with a unique ability to think innovatively and solve complex problems in creative ways.</p>
                 <p><strong>Education:</strong></p>
                 <ul>
                     <li>SDE - Data and Communication (2020-2022)</li>
@@ -69,8 +167,6 @@
                 </ul>
             </div>
         </div>
-
-
     </div>
 
 </body>
