@@ -6,19 +6,20 @@
     <title>Andreas Patinas - Skills Infographic</title>
 </head>
 <body style="margin: 0; font-family: Arial, sans-serif;">
-    <!-- Navbar -->
-    <div style="background-color: black; padding: 15px; text-align: right;">
+
+    <!-- Centered Navbar -->
+    <div style="background-color: black; padding: 15px; display: flex; justify-content: center;">
         <a href="#about" style="color: white; margin-right: 20px; text-decoration: none;">ABOUT</a>
         <a href="#skills" style="color: white; text-decoration: none;">SKILLS</a>
     </div>
 
-    <!-- Infographic Section -->
+    <!-- Infographic Section, centered and full viewport height -->
     <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #f2f2f2;">
         <h1 style="text-transform: uppercase; letter-spacing: 1.5px;">Andreas Patinas</h1>
         <p style="text-transform: uppercase; letter-spacing: 2px; margin-top: 20px;">Skills Overview</p>
 
         <!-- Skills Circle -->
-        <div style="display: flex; gap: 20px;">
+        <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
             <div style="text-align: center;">
                 <div style="height: 150px; width: 150px; background-color: blue; border-radius: 50%;"></div>
                 <p style="margin-top: 10px;">Linux</p>
@@ -33,7 +34,7 @@
             </div>
         </div>
 
-        <div style="display: flex; gap: 20px; margin-top: 30px;">
+        <div style="display: flex; gap: 20px; margin-top: 30px; flex-wrap: wrap; justify-content: center;">
             <div style="text-align: center;">
                 <div style="height: 150px; width: 150px; background-color: red; border-radius: 50%;"></div>
                 <p style="margin-top: 10px;">Kubernetes</p>
@@ -44,5 +45,6 @@
             </div>
         </div>
     </div>
+
 </body>
 </html>
