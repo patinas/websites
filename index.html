@@ -3,130 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Andreas Patinas</title>
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            font-family: Arial, sans-serif;
-            scroll-behavior: smooth;
-        }
-
-        header {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 15vh;
-            background-color: #000;
-        }
-
-        nav {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        nav a {
-            color: #fff;
-            padding: 0 15px;
-            text-decoration: none;
-            font-size: 18px;
-        }
-
-        nav a:hover {
-            color: #007bff;
-        }
-
-        .content {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            height: 70vh;
-            text-align: center;
-        }
-
-        .content h1 {
-            font-size: 40px;
-        }
-
-        .content .circle {
-            width: 150px;
-            height: 150px;
-            background-color: #007bff;
-            border-radius: 50%;
-        }
-
-        #skills, #about {
-            padding: 50px 20px;
-            min-height: 100vh;
-        }
-
-        .section-heading {
-            font-size: 32px;
-            margin-bottom: 30px;
-        }
-
-        .section-content {
-            max-width: 800px;
-            margin: 0 auto;
-            font-size: 18px;
-            line-height: 1.6;
-        }
-
-        img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            margin-bottom: 20px;
-        }
-    </style>
+    <title>Andreas Patinas - Skills Infographic</title>
 </head>
-<body>
+<body style="margin: 0; font-family: Arial, sans-serif; overflow: hidden;">
 
-<header>
-    <nav>
-        <a href="#about">ABOUT</a>
-        <a href="#skills">SKILLS</a>
-    </nav>
-</header>
-
-<div class="content">
-    <h1>Andreas Patinas</h1>
-    <div class="circle"></div>
-    <p>Creative Developer & Designer</p>
-</div>
-
-<!-- About Section -->
-<section id="about">
-    <div class="section-heading">About Me</div>
-    <div class="section-content">
-        <img src="https://via.placeholder.com/150" alt="Profile Image">
-        <p>
-            With strong technical skills in server administration, Linux, and Windows systems, along with expertise in containerization technologies like Docker, I strive to master the latest IT solutions and contribute valuable insights to any team. My background in IT, combined with my creative past in graphic design, gives me a unique ability to think innovatively and solve complex problems in creative ways.
-        </p>
-        <h3>Education</h3>
-        <ul>
-            <li>Data and Communication, SDE, 2020-2022</li>
-            <li>Graphic Design Technology, UCN, 2015-2017</li>
-            <li>Multimedia Design, UCN, 2011-2013</li>
-        </ul>
+    <!-- Centered Navbar -->
+    <div style="background-color: black; padding: 15px; display: flex; justify-content: center;">
+        <a href="#about" style="color: white; margin-right: 20px; text-decoration: none;">ABOUT</a>
+        <a href="#skills" style="color: white; text-decoration: none;">SKILLS</a>
     </div>
-</section>
 
-<!-- Skills Section -->
-<section id="skills">
-    <div class="section-heading">Skills</div>
-    <div class="section-content">
-        <ul>
-            <li>Linux ■■■■■■■■■□</li>
-            <li>Windows ■■■■■■■■■□</li>
-            <li>Docker ■■■■■■■□□□</li>
-            <li>Kubernetes ■■■■■□□□□□</li>
-        </ul>
+    <!-- Infographic Section, centered and fits the viewport height without scrolling -->
+    <div style="height: calc(100vh - 50px); display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #f2f2f2;">
+        <h1 style="text-transform: uppercase; letter-spacing: 1.5px; margin: 0;">Andreas Patinas</h1>
+        <p style="text-transform: uppercase; letter-spacing: 2px; margin-top: 20px;">Skills Overview</p>
+
+        <!-- Skills Circle -->
+        <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: blue; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">Linux</p>
+            </div>
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: green; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">Docker</p>
+            </div>
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: orange; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">Windows</p>
+            </div>
+        </div>
+
+        <div style="display: flex; gap: 20px; margin-top: 30px; flex-wrap: wrap; justify-content: center;">
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: red; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">Kubernetes</p>
+            </div>
+            <div style="text-align: center;">
+                <div style="height: 150px; width: 150px; background-color: purple; border-radius: 50%;"></div>
+                <p style="margin-top: 10px;">PowerShell</p>
+            </div>
+        </div>
     </div>
-</section>
 
 </body>
 </html>
