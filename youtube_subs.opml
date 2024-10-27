@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>YouTube Subscriptions as RSS</title>
+	</head>
+	<body>
+		<outline text="YouTube Subscriptions">
+			<outline type="rss" text="CoderOne" title="CoderOne" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMm15RFnHUvM-aSc50e7R9A" htmlUrl="https://www.youtube.com/@CoderOne"/>
+			<outline type="rss" text="zanginator-tech" title="zanginator-tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHMmLVgcFD4lPtCDvtZSieA" htmlUrl="https://www.youtube.com/@zanginator-tech"/>
+			<outline type="rss" text="The Next Wave" title="The Next Wave" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuK2Mf5As9OKfWU7XV6yzCg" htmlUrl="https://www.youtube.com/@TheNextWavePod"/>
+			<outline type="rss" text="ManuAGI - AutoGPT Tutorials" title="ManuAGI - AutoGPT Tutorials" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1weYqfDgX0ALlNOSzcyblQ" htmlUrl="https://www.youtube.com/@ManuAGI"/>
+			<outline type="rss" text="Pixel &amp; Bracket" title="Pixel &amp; Bracket" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgllKT-His1Tbd4LUFazXUA" htmlUrl="https://www.youtube.com/@pixelandbracket"/>
+			<outline type="rss" text="Josh Pocock" title="Josh Pocock" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIVAz0HAz5a_CRlJdV4yRFw" htmlUrl="https://www.youtube.com/@joshfpocock"/>
+			<outline type="rss" text="Fowler&apos;s Makery and Mischief" title="Fowler&apos;s Makery and Mischief" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2h_ncHoP2v6OO_zFsMuOPQ" htmlUrl="https://www.youtube.com/@FowlersMakeryandMischief"/>
+			<outline type="rss" text="Matea &amp; Milos" title="Matea &amp; Milos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGu7WYZbNujeMuAukSaMR5Q" htmlUrl="https://www.youtube.com/@mateaandmilos"/>
+			<outline type="rss" text="TheAIGRID" title="TheAIGRID" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbY9xX3_jW5c2fjlZVBI4cg" htmlUrl="https://www.youtube.com/@TheAiGrid"/>
+			<outline type="rss" text="WorldofAI" title="WorldofAI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2WmuBuFq6gL08QYG-JjXKw" htmlUrl="https://www.youtube.com/@intheworldofai"/>
+			<outline type="rss" text="Creator Magic" title="Creator Magic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC08Fah8EIryeOZRkjBRohcQ" htmlUrl="https://www.youtube.com/@CreatorMagicAI"/>
+			<outline type="rss" text="Cole Medin" title="Cole Medin" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMwVTLZIRRUyyVrkjDpn4pA" htmlUrl="https://www.youtube.com/@ColeMedin"/>
+			<outline type="rss" text="Jack Roberts" title="Jack Roberts" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxVxcTULO9cFU6SB9qVaisQ" htmlUrl="https://www.youtube.com/@Itssssss_Jack"/>
+			<outline type="rss" text="Ben AI" title="Ben AI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3KK7ENB_ierAXvrxVNnbZQ" htmlUrl="https://www.youtube.com/@BenAI92"/>
+			<outline type="rss" text="NetworkChuck" title="NetworkChuck" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ" htmlUrl="https://www.youtube.com/@NetworkChuck"/>
+			<outline type="rss" text="Greg Isenberg" title="Greg Isenberg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw" htmlUrl="https://www.youtube.com/@GregIsenberg"/>
+			<outline type="rss" text="All About AI" title="All About AI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR9j1jqqB5Rse69wjUnbYwA" htmlUrl="https://www.youtube.com/@AllAboutAI"/>
+			<outline type="rss" text="WeAreNoCode" title="WeAreNoCode" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrJrY9gMcbRL2APnFCXiuBQ" htmlUrl="https://www.youtube.com/@wearenocode"/>
+			<outline type="rss" text="Zoltan Kaszas" title="Zoltan Kaszas" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzOboYYas9UNLo0fHHkj-qg" htmlUrl="https://www.youtube.com/@zoltancomedy"/>
+			<outline type="rss" text="AICodeKing" title="AICodeKing" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0m81bQuthaQZmFbXEY9QSw" htmlUrl="https://www.youtube.com/@AICodeKing"/>
+			<outline type="rss" text="Dry Bar Comedy" title="Dry Bar Comedy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvlVuntLjdURVD3b3Hx7kxw" htmlUrl="https://www.youtube.com/@DryBarComedy"/>
+			<outline type="rss" text="Chris Titus Tech" title="Chris Titus Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ" htmlUrl="https://www.youtube.com/@ChrisTitusTech"/>
+			<outline type="rss" text="800 Pound Gorilla Media" title="800 Pound Gorilla Media" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ9hfZ2sU7jFT9isA2rN58Q" htmlUrl="https://www.youtube.com/@800pgm"/>
+			<outline type="rss" text="Income stream surfers" title="Income stream surfers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCctL30i8tVgSS9A37Q532eg" htmlUrl="https://www.youtube.com/@Incomestreamsurfers"/>
+			<outline type="rss" text="Ray Fernando" title="Ray Fernando" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq_MHfMX5FBBB3bqnJPAEzA" htmlUrl="https://www.youtube.com/@RayFernando1337"/>
+			<outline type="rss" text="Nick Saraev" title="Nick Saraev" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbo-KbSjJDG6JWQ_MTZ_rNA" htmlUrl="https://www.youtube.com/@nicksaraev"/>
+			<outline type="rss" text="AI LABS" title="AI LABS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCelfWQr9sXVMTvBzviPGlFw" htmlUrl="https://www.youtube.com/@AILABS-393"/>
+			<outline type="rss" text="AgileDevArt" title="AgileDevArt" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHgVbLswhYosdtbT6rKQLyg" htmlUrl="https://www.youtube.com/@agiledevart"/>
+			<outline type="rss" text="Corbin Brown" title="Corbin Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJFMlSxcvlZg5yZUYJT0Pug" htmlUrl="https://www.youtube.com/@Corbin_Brown"/>
+			<outline type="rss" text="Supabase" title="Supabase" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNTVzV1InxHV-YR0fSajqPQ" htmlUrl="https://www.youtube.com/@Supabase"/>
+			<outline type="rss" text="Techdox" title="Techdox" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXJ4jKAvMMg56WGhqrZHFgw" htmlUrl="https://www.youtube.com/@Techdox"/>
+			<outline type="rss" text="Tool Use - A.I. Conversations" title="Tool Use - A.I. Conversations" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChZeiM9f9fViEYK2VPRx_dw" htmlUrl="https://www.youtube.com/@ToolUseAI"/>
+			<outline type="rss" text="Stephen G. Pope" title="Stephen G. Pope" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIg2taLnC9X6LRP1k3kukOA" htmlUrl="https://www.youtube.com/@StephenGPope"/>
+			<outline type="rss" text="Matthew Berman" title="Matthew Berman" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA" htmlUrl="https://www.youtube.com/@matthew_berman"/>
+			<outline type="rss" text="techfren" title="techfren" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1RO76_HDT13u-lPXOA0t9A" htmlUrl="https://www.youtube.com/@techfren"/>
+			<outline type="rss" text="Developers Digest" title="Developers Digest" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuE6iwZKgGz8s6kznBRI9LQ" htmlUrl="https://www.youtube.com/@DevelopersDigest"/>
+			<outline type="rss" text="tobi tackles tech" title="tobi tackles tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWSvMcehuyXy2sWFApXB4eA" htmlUrl="https://www.youtube.com/@tobitacklestech"/>
+			<outline type="rss" text="MattVidPro AI" title="MattVidPro AI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5Wz4fFacYuON6IKbhSa7Zw" htmlUrl="https://www.youtube.com/@MattVidPro"/>
+			<outline type="rss" text="Eduards Ruzga" title="Eduards Ruzga" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLIo-9WnXvQcXfXomQvYSOg" htmlUrl="https://www.youtube.com/@EduardsRuzga"/>
+			<outline type="rss" text="David Ondrej" title="David Ondrej" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPGrgwfbkjTIgPoOh2q1BAg" htmlUrl="https://www.youtube.com/@DavidOndrej"/>
+			<outline type="rss" text="Ash" title="Ash" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXV4sB81g33BP2aiDuX5kXg" htmlUrl="https://www.youtube.com/@ashmusicofficial"/>
+			<outline type="rss" text="Web Dev Cody" title="Web Dev Cody" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsrVDPJBYeXItETFHG0qzyw" htmlUrl="https://www.youtube.com/@WebDevCody"/>
+			<outline type="rss" text="RaffyTaphyASMR" title="RaffyTaphyASMR" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMWQbdU4kjCB49xkuQ8nYRw" htmlUrl="https://www.youtube.com/@RaffyTaphy"/>
+			<outline type="rss" text="Bob Doyle Media" title="Bob Doyle Media" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC90XwXfeBMeNfeO7KmUNpYg" htmlUrl="https://www.youtube.com/@BobDoyleMedia"/>
+			<outline type="rss" text="The Linux Experiment" title="The Linux Experiment" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw" htmlUrl="https://www.youtube.com/@TheLinuxEXP"/>
+			<outline type="rss" text="Trevor Sullivan" title="Trevor Sullivan" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGpJOTbsdZH_sBxihz6p_wg" htmlUrl="https://www.youtube.com/@TrevorSullivan"/>
+			<outline type="rss" text="The AI Advantage" title="The AI Advantage" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ" htmlUrl="https://www.youtube.com/@aiadvantage"/>
+			<outline type="rss" text="AI Jason" title="AI Jason" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrXSVX9a1mj8l0CMLwKgMVw" htmlUrl="https://www.youtube.com/@AIJasonZ"/>
+			<outline type="rss" text="NetSec" title="NetSec" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPzmia0KbQlmhYuh5r7kWtA" htmlUrl="https://www.youtube.com/@NetSec"/>
+			<outline type="rss" text="MRP" title="MRP" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQMC5RAva8Wzwv_GS9jTpJw" htmlUrl="https://www.youtube.com/@MRPtech"/>
+			<outline type="rss" text="LXD" title="LXD" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuP6xPt0WTeZu32CkQPpbvA" htmlUrl="https://www.youtube.com/@LXD"/>
+			<outline type="rss" text="Relevance AI" title="Relevance AI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIFcSnzFKtZmDP-e1IsPZqg" htmlUrl="https://www.youtube.com/@relevanceai"/>
+			<outline type="rss" text="Techno Tim" title="Techno Tim" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOk-gHyjcWZNj3Br4oxwh0A" htmlUrl="https://www.youtube.com/@TechnoTim"/>
+			<outline type="rss" text="Pure Unintentional ASMR" title="Pure Unintentional ASMR" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWCk81c_nQOsm5M-xKuTFnQ" htmlUrl="https://www.youtube.com/@PureUnintentionalASMR"/>
+			<outline type="rss" text="Novaspirit Tech" title="Novaspirit Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrjKdwxaQMSV_NDywgKXVmw" htmlUrl="https://www.youtube.com/@NovaspiritTech"/>
+			<outline type="rss" text="AI in practice" title="AI in practice" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkg6t4tSH20BxWT-2uLvXLA" htmlUrl="https://www.youtube.com/@ai-in-practice"/>
+			<outline type="rss" text="DB Tech" title="DB Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVy16RS5eEDh8anP8j94G2A" htmlUrl="https://www.youtube.com/@DBTechYT"/>
+			<outline type="rss" text="apalrd&apos;s adventures" title="apalrd&apos;s adventures" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIgNWXsJcFwvFptmUic6wSw" htmlUrl="https://www.youtube.com/@apalrdsadventures"/>
+			<outline type="rss" text="Skill Leap AI" title="Skill Leap AI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwSozl89jl2zUDzQ4jGJD3g" htmlUrl="https://www.youtube.com/@SkillLeapAI"/>
+			<outline type="rss" text="Jim&apos;s Garage" title="Jim&apos;s Garage" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUUTdohVElFLSP4NBnlPEwA" htmlUrl="https://www.youtube.com/@Jims-Garage"/>
+			<outline type="rss" text="NETVN82" title="NETVN82" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCl11_iYjid0YrT7d8DF3-w" htmlUrl="https://www.youtube.com/@NETVN82"/>
+			<outline type="rss" text="Matt Williams" title="Matt Williams" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHaF9kM2wn8C3CLRwLkC2GQ" htmlUrl="https://www.youtube.com/@technovangelist"/>
+			<outline type="rss" text="Monolink" title="Monolink" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXzPTTX-VxZr5jiWxytz8hA" htmlUrl="https://www.youtube.com/@Monolink"/>
+			<outline type="rss" text="Grow with Alex" title="Grow with Alex" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVlckfXzc7OAp-bHsf76-TA" htmlUrl="https://www.youtube.com/@growwithalex"/>
+			<outline type="rss" text="Fireship" title="Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" htmlUrl="https://www.youtube.com/@Fireship"/>
+			<outline type="rss" text="AI Master" title="AI Master" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0yHbz4OxdQFwmVX2BBQqLg" htmlUrl="https://www.youtube.com/@iamAImaster"/>
+			<outline type="rss" text="Beyond Fireship" title="Beyond Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Xd-TjJByJyK2w1zNwY0zQ" htmlUrl="https://www.youtube.com/@beyondfireship"/>
+			<outline type="rss" text="Christian Lempa" title="Christian Lempa" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZNhwA1B5YqiY1nLzmM0ZRg" htmlUrl="https://www.youtube.com/@christianlempa"/>
+			<outline type="rss" text="Dify" title="Dify" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2JZCsZSOudXA08cMMRCL9g" htmlUrl="https://www.youtube.com/@dify_ai"/>
+			<outline type="rss" text="Appwrite" title="Appwrite" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtBJ1v69gm8NgbCju_03Fiw" htmlUrl="https://www.youtube.com/@Appwrite"/>
+			<outline type="rss" text="David Bombal" title="David Bombal" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w" htmlUrl="https://www.youtube.com/@davidbombal"/>
+			<outline type="rss" text="Codevolution" title="Codevolution" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC80PWRj_ZU8Zu0HSMNVwKWw" htmlUrl="https://www.youtube.com/@Codevolution"/>
+			<outline type="rss" text="Replit" title="Replit" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgoJjdR6-7AMu9fDitb6nVw" htmlUrl="https://www.youtube.com/@replit"/>
+			<outline type="rss" text="Tech Labs" title="Tech Labs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9PhjnFqCTQFgTVcgzERdbw" htmlUrl="https://www.youtube.com/@TechLabsOfficial"/>
+			<outline type="rss" text="Jono Catliff" title="Jono Catliff" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnzxPyNnn8jk4bHFk3JUBhA" htmlUrl="https://www.youtube.com/@jonocatliff"/>
+			<outline type="rss" text="Mr Lemon" title="Mr Lemon" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgYRXoruUK9VQlL8G-3l6qw" htmlUrl="https://www.youtube.com/@officialmrlemon"/>
+			<outline type="rss" text="Lawrence Systems" title="Lawrence Systems" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHkYOD-3fZbuGhwsADBd9ZQ" htmlUrl="https://www.youtube.com/@LAWRENCESYSTEMS"/>
+			<outline type="rss" text="FOSDEM" title="FOSDEM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9NuJImUbaSNKiwF2bdSfAw" htmlUrl="https://www.youtube.com/@fosdemtalks"/>
+			<outline type="rss" text="VirtualizationHowto" title="VirtualizationHowto" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrxcWtpd1IGHG9RbD_9380A" htmlUrl="https://www.youtube.com/@VirtualizationHowto"/>
+			<outline type="rss" text="ETA PRIME" title="ETA PRIME" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_0CVCfC_3iuHqmyClu59Uw" htmlUrl="https://www.youtube.com/@ETAPRIME"/>
+			<outline type="rss" text="Piepop101" title="Piepop101" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5o8xpH3jUOYWBXuEPYI78A" htmlUrl="https://www.youtube.com/@Piepop101"/>
+			<outline type="rss" text="Coding With Adam" title="Coding With Adam" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuwL6KfTU7VoDZYZuE1WMfA" htmlUrl="https://www.youtube.com/@CodingWithAdam"/>
+			<outline type="rss" text="Mitch Asser" title="Mitch Asser" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCQEK0dldcvHx-DPsBw_trw" htmlUrl="https://www.youtube.com/@MitchAsser"/>
+			<outline type="rss" text="Wolfgang&apos;s Channel" title="Wolfgang&apos;s Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg" htmlUrl="https://www.youtube.com/@WolfgangsChannel"/>
+			<outline type="rss" text="Unscripted Coding" title="Unscripted Coding" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdZV4jz0TFVHJDtZaH3K4tw" htmlUrl="https://www.youtube.com/@UnscriptedCoding"/>
+			<outline type="rss" text="Titus Tech Talk" title="Titus Tech Talk" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtYg149E_wUGVmjGz-TgyNA" htmlUrl="https://www.youtube.com/@TitusTechTalk"/>
+			<outline type="rss" text="SAMTIME" title="SAMTIME" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCd6vEDS3SOhWbXZrxbrf_bw" htmlUrl="https://www.youtube.com/@SAMTIME"/>
+			<outline type="rss" text="Matt Wolfe" title="Matt Wolfe" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g" htmlUrl="https://www.youtube.com/@mreflow"/>
+			<outline type="rss" text="Kyle Balmer | AI for Entrepreneurs" title="Kyle Balmer | AI for Entrepreneurs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChlLglbHDASnoGkbjDeHnQg" htmlUrl="https://www.youtube.com/@iamkylebalmer"/>
+			<outline type="rss" text="Codex Community" title="Codex Community" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgkx40oeL6X9l93iT0sHxgg" htmlUrl="https://www.youtube.com/@CodexCommunity"/>
+			<outline type="rss" text="DiscoVR Tetiana" title="DiscoVR Tetiana" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKoDvV9qSSlhj_EKWTk5CIw" htmlUrl="https://www.youtube.com/@DiscoVRTetiana"/>
+			<outline type="rss" text="ExplainingComputers" title="ExplainingComputers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbiGcwDWZjz05njNPrJU7jA" htmlUrl="https://www.youtube.com/@ExplainingComputers"/>
+			<outline type="rss" text="ZacsTech" title="ZacsTech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxgugiJaCe_kWhb4sobofqw" htmlUrl="https://www.youtube.com/@zacstech"/>
+			<outline type="rss" text="Supercheap Auto" title="Supercheap Auto" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCH204svS2bNggck8SqBByHg" htmlUrl="https://www.youtube.com/@supercheapautotv"/>
+			<outline type="rss" text="Unsupervised Learning" title="Unsupervised Learning" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnCikd0s4i9KoDtaHPlK-JA" htmlUrl="https://www.youtube.com/@unsupervised-learning"/>
+			<outline type="rss" text="TroubleChute" title="TroubleChute" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkih2oVTbXPEpVwE-U7kmHw" htmlUrl="https://www.youtube.com/@TroubleChute"/>
+			<outline type="rss" text="Tech Hustler" title="Tech Hustler" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc6_SrX9bjWbiNeA-PHux2w" htmlUrl="https://www.youtube.com/@TechHustler"/>
+			<outline type="rss" text="AI Search" title="AI Search" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A" htmlUrl="https://www.youtube.com/@theAIsearch"/>
+			<outline type="rss" text="The Linux Cast" title="The Linux Cast" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCylGUf9BvQooEFjgdNudoQg" htmlUrl="https://www.youtube.com/@TheLinuxCast"/>
+			<outline type="rss" text="Shane Hummus" title="Shane Hummus" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLKZ20yD2tNMBOkSDZo4FeQ" htmlUrl="https://www.youtube.com/@ShaneHummus"/>
+			<outline type="rss" text="Cloud Gaming Battle" title="Cloud Gaming Battle" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyQfx5QHA12CBEZwS0vxPaw" htmlUrl="https://www.youtube.com/@CloudGamingBattle"/>
+			<outline type="rss" text="Canonical Ubuntu" title="Canonical Ubuntu" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ65UG_WgFa_O_odbiBWZoA" htmlUrl="https://www.youtube.com/@UbuntuOS"/>
+			<outline type="rss" text="Altcoin Daily" title="Altcoin Daily" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbLhGKVY-bJPcawebgtNfbw" htmlUrl="https://www.youtube.com/@AltcoinDaily"/>
+			<outline type="rss" text="Theo - t3․gg" title="Theo - t3․gg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbRP3c757lWg9M-U7TyEkXA" htmlUrl="https://www.youtube.com/@t3dotgg"/>
+			<outline type="rss" text="SavvyNik" title="SavvyNik" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3yaWWA9FF9OBog5U9ml68A" htmlUrl="https://www.youtube.com/@SavvyNik"/>
+			<outline type="rss" text="BigBearTechWorld" title="BigBearTechWorld" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0QpIoEkZpl68w5WPFglaOg" htmlUrl="https://www.youtube.com/@bigbeartechworld"/>
+			<outline type="rss" text="Britec09" title="Britec09" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_M-iWYpQbgo4rK1YfewI5w" htmlUrl="https://www.youtube.com/@Britec09"/>
+			<outline type="rss" text="Gamertag VR" title="Gamertag VR" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnrAvt4i_2WV3yEKWyEUMlg" htmlUrl="https://www.youtube.com/@GAMERTAGVR"/>
+			<outline type="rss" text="Mischa van den Burg" title="Mischa van den Burg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDAck-gFPTrgTx_qp59-bQA" htmlUrl="https://www.youtube.com/@mischavandenburg"/>
+			<outline type="rss" text="Open Bar Comedy" title="Open Bar Comedy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjPbsBrSYAWt8-5PsE3BS6A" htmlUrl="https://www.youtube.com/@openbarcomedy"/>
+			<outline type="rss" text="Dr. EyeGuy" title="Dr. EyeGuy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT8aWINII3rDvUZUBGq-2tw" htmlUrl="https://www.youtube.com/@DrEyeGuy"/>
+			<outline type="rss" text="DCX Gaming" title="DCX Gaming" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4xH3E2AvtnHqAIH4499XSw" htmlUrl="https://www.youtube.com/@DCXGaming"/>
+			<outline type="rss" text="Scotti-BYTE Enterprise Consulting Services" title="Scotti-BYTE Enterprise Consulting Services" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxZPAzkw5Bj-j4vihnjpCVQ" htmlUrl="https://www.youtube.com/@scottibyte"/>
+			<outline type="rss" text="Nico Knows Tech" title="Nico Knows Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNH-PKa7eHY0vzgAh0hlPWw" htmlUrl="https://www.youtube.com/@NicoKnowsTech"/>
+			<outline type="rss" text="Marques Brownlee" title="Marques Brownlee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ" htmlUrl="https://www.youtube.com/@mkbhd"/>
+			<outline type="rss" text="All Things Comedy" title="All Things Comedy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXe71uKL96wbG-OZbDrQU2Q" htmlUrl="https://www.youtube.com/@atc"/>
+			<outline type="rss" text="Chrome Unboxed" title="Chrome Unboxed" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkHgegL2XiXSlwY5zeCKKyg" htmlUrl="https://www.youtube.com/@chromeunboxed"/>
+			<outline type="rss" text="Adam Muller Comedy" title="Adam Muller Comedy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJDIvab5y2yIBzzkbIgy8WQ" htmlUrl="https://www.youtube.com/@AdamMullerComedy"/>
+			<outline type="rss" text="The Mysticle" title="The Mysticle" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNoGPh6-xT7afBoudgrx56Q" htmlUrl="https://www.youtube.com/@TheMysticle"/>
+			<outline type="rss" text="Akamai Developer" title="Akamai Developer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCf8uu3IE42b6hRUusufEH8g" htmlUrl="https://www.youtube.com/@AkamaiDeveloper"/>
+			<outline type="rss" text="Kubesimplify" title="Kubesimplify" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCi-1nnN0eC9nRleXdZA6ncg" htmlUrl="https://www.youtube.com/@kubesimplify"/>
+			<outline type="rss" text="Dapp University" title="Dapp University" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ" htmlUrl="https://www.youtube.com/@DappUniversity"/>
+			<outline type="rss" text="MikeTheTech" title="MikeTheTech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ0hznff92f_i1wpYyi7tPQ" htmlUrl="https://www.youtube.com/@MikeTheTech"/>
+			<outline type="rss" text="Kasm Workspaces" title="Kasm Workspaces" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgpv4MLH8diVlIiakCBu8eQ" htmlUrl="https://www.youtube.com/@KasmWorkspaces"/>
+			<outline type="rss" text="Sumsub" title="Sumsub" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVraU9wuIQr8H1B0kcUD7Tw" htmlUrl="https://www.youtube.com/@Sumsubcom"/>
+			<outline type="rss" text="Appsmith" title="Appsmith" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMYwzPG2txS8nR5ZbNY6T5g" htmlUrl="https://www.youtube.com/@appsmith"/>
+			<outline type="rss" text="Tailscale" title="Tailscale" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcdv38QxPjSMqbt5ffLhJLA" htmlUrl="https://www.youtube.com/@Tailscale"/>
+			<outline type="rss" text="Immersed" title="Immersed" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGmuLwV0XD_uqL4wKZg4hgA" htmlUrl="https://www.youtube.com/@ImmersedXR"/>
+			<outline type="rss" text="John Hammond" title="John Hammond" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw" htmlUrl="https://www.youtube.com/@_JohnHammond"/>
+			<outline type="rss" text="LinuxNext" title="LinuxNext" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6Ti5WHGVusY4I6iKsX10Zg" htmlUrl="https://www.youtube.com/@linuxnext"/>
+			<outline type="rss" text="Sauber-Lab UK" title="Sauber-Lab UK" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgqmoFK8KvbCtbxe-AOPzHA" htmlUrl="https://www.youtube.com/@sauberlab-uk"/>
+			<outline type="rss" text="kilObit" title="kilObit" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxrauf_nmP9L93qiBLSkerA" htmlUrl="https://www.youtube.com/@kilObit"/>
+			<outline type="rss" text="Stewart Gauld" title="Stewart Gauld" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy8r-oIbZj5T5d37EQO_5Cg" htmlUrl="https://www.youtube.com/@StewartGauld"/>
+			<outline type="rss" text="CodeBrew" title="CodeBrew" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCO6xOyZH8TzB-1POJ7Fcdbw" htmlUrl="https://www.youtube.com/@cdbrw"/>
+			<outline type="rss" text="Eddy Buckhorn" title="Eddy Buckhorn" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-N5p2Z8qsTR3iTAgD99UyQ" htmlUrl="https://www.youtube.com/@eddybuckhorn7411"/>
+			<outline type="rss" text="theurbanpenguin" title="theurbanpenguin" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFFLP0dKesrKWccYscdAr9A" htmlUrl="https://www.youtube.com/@theurbanpenguin"/>
+			<outline type="rss" text="FastTrack Software" title="FastTrack Software" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC38USHCOrP4jAD3PHl1md0Q" htmlUrl="https://www.youtube.com/@fasttracksoftware1915"/>
+			<outline type="rss" text="DOF TWOGEE" title="DOF TWOGEE" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCye7XkgZKxLdk9ID_P1ynog" htmlUrl="https://www.youtube.com/@DOFTWOGEE"/>
+			<outline type="rss" text="sn0ren" title="sn0ren" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3AZigNkQD-7GQugXoH3xzA" htmlUrl="https://www.youtube.com/@sn0ren"/>
+			<outline type="rss" text="Data Slayer" title="Data Slayer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiO0K2xt5irIN6x13FNzYTg" htmlUrl="https://www.youtube.com/@DataSlayerMedia"/>
+			<outline type="rss" text="A Little More Dry Bar" title="A Little More Dry Bar" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4VofsSdzu0voTu6SNthZ6Q" htmlUrl="https://www.youtube.com/@alittlemoredrybar"/>
+			<outline type="rss" text="ThrillSeeker" title="ThrillSeeker" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA" htmlUrl="https://www.youtube.com/@ThrillSeekerVR"/>
+			<outline type="rss" text="Andy&apos;s Vr Reviews" title="Andy&apos;s Vr Reviews" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCAPAS-lb94RPpvTGu6inGw" htmlUrl="https://www.youtube.com/@AndysVrReviews"/>
+			<outline type="rss" text="VR ManCave" title="VR ManCave" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPEMnOnhgGwwft97yXHeptg" htmlUrl="https://www.youtube.com/@VRManCave"/>
+			<outline type="rss" text="Daniel Stenberg" title="Daniel Stenberg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCD5eL38hFtSLiVFP9cCUJEA" htmlUrl="https://www.youtube.com/@DanielStenberg"/>
+			<outline type="rss" text="Ron White Memory Expert - Memory Training &amp; Brain Training" title="Ron White Memory Expert - Memory Training &amp; Brain Training" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrn5bzpRYOKVJoRoYvn8mPQ" htmlUrl="https://www.youtube.com/@Brainathlete"/>
+			<outline type="rss" text="Day Dreamer VR" title="Day Dreamer VR" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyJUUes7BSL-OwbM0Qij07Q" htmlUrl="https://www.youtube.com/@DayDreamerVR"/>
+			<outline type="rss" text="TechFlow" title="TechFlow" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdU3K0pmvsuxcHFaI3aWKHw" htmlUrl="https://www.youtube.com/@techflow"/>
+			<outline type="rss" text="ThatsDoable VR" title="ThatsDoable VR" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEZ-IbVJTYAt2RBPEgdEiXg" htmlUrl="https://www.youtube.com/@thatsdoablevr"/>
+			<outline type="rss" text="Robin J Kavanagh" title="Robin J Kavanagh" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRyK9RyF2At3uD0uiv9aR8A" htmlUrl="https://www.youtube.com/@robnjk"/>
+			<outline type="rss" text="Eevnos VR" title="Eevnos VR" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC59xkkuLvFY-wwNVN2wx00g" htmlUrl="https://www.youtube.com/@eevnosvr"/>
+			<outline type="rss" text="MassageASMR" title="MassageASMR" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgOfiuubHnhVrc9IEcSk1Nw" htmlUrl="https://www.youtube.com/@MassageASMR"/>
+			<outline type="rss" text="Noted" title="Noted" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaXjKoqc5NJJOKhibn_NogQ" htmlUrl="https://www.youtube.com/@selfhosted"/>
+			<outline type="rss" text="RÜFÜS DU SOL" title="RÜFÜS DU SOL" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6iin46o7SrAsnl9ig__vlw" htmlUrl="https://www.youtube.com/@rufusdusol"/>
+			<outline type="rss" text="NTO" title="NTO" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGbyt2Lm2WlWULsMuhMeZvg" htmlUrl="https://www.youtube.com/@ntomusic"/>
+			<outline type="rss" text="Raske Plader" title="Raske Plader" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjSnbqvVLioiwD2kEO_a_Rg" htmlUrl="https://www.youtube.com/@RasMoney"/>
+			<outline type="rss" text="Giolì &amp; Assia" title="Giolì &amp; Assia" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCvvW7nH3uVVH1hJ6_PRn0A" htmlUrl="https://www.youtube.com/c/Giol%C3%ACandAssia"/>
+			<outline type="rss" text="Trade Tactics" title="Trade Tactics" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaLXjpWZhTvBNbiFhoGHpIQ" htmlUrl="https://www.youtube.com/@tradetactics"/>
+			<outline type="rss" text="Thomas Midena" title="Thomas Midena" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCj0TxJVIPfIrC_8w_tz02Uw" htmlUrl="https://www.youtube.com/@Thoroughmas"/>
+			<outline type="rss" text="DoItYourselfDad" title="DoItYourselfDad" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCf3_eIEHRwKH7UlpULkPz-w" htmlUrl="https://www.youtube.com/@DoItYourselfDad"/>
+			<outline type="rss" text="JemJem" title="JemJem" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnliV7w_UQbaNP0zQfP-p_w" htmlUrl="https://www.youtube.com/@jemjem7254"/>
+			<outline type="rss" text="Vasileios Adamos" title="Vasileios Adamos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwyZsKsCHX4q-9lQLi3Q8lg" htmlUrl="https://www.youtube.com/@vadamosuop"/>
+			<outline type="rss" text="TechLead" title="TechLead" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4xKdmAXFh4ACyhpiQ_3qBw" htmlUrl="https://www.youtube.com/@TechLead"/>
+			<outline type="rss" text="JimmyRose - Automation &amp; Productivity" title="JimmyRose - Automation &amp; Productivity" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnfG0GuJW2KMQOyAtlx1Xgg" htmlUrl="https://www.youtube.com/@_jimmyrose"/>
+			<outline type="rss" text="School Of Freelancing" title="School Of Freelancing" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVPPcG_DnwE_L1YgiIGsSIA" htmlUrl="https://www.youtube.com/@SchoolOfFreelancing"/>
+			<outline type="rss" text="Tiny Automations" title="Tiny Automations" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfFyBUMou-ms-JGh9nULUJA" htmlUrl="https://www.youtube.com/@tinyautomations"/>
+			<outline type="rss" text="PetterTech" title="PetterTech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQI_069-AC_iU8Tw9nP-a3A" htmlUrl="https://www.youtube.com/@PetterTech"/>
+			<outline type="rss" text="TechNolli" title="TechNolli" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCO4u3XLKPLDLWkPnpfD2Vlg" htmlUrl="https://www.youtube.com/@TechNolli"/>
+			<outline type="rss" text="OpenAI" title="OpenAI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A" htmlUrl="https://www.youtube.com/@OpenAI"/>
+			<outline type="rss" text="Brandon Stecklein" title="Brandon Stecklein" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE5PlczR1J5ZJ2IeBPxtyjQ" htmlUrl="https://www.youtube.com/@BrandonStecklein"/>
+			<outline type="rss" text="Justin Garrison" title="Justin Garrison" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCOfb0euSR3nlKMMX9xZBEw" htmlUrl="https://www.youtube.com/@JustinGarrison"/>
+			<outline type="rss" text="Null Labs" title="Null Labs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfrwHFvGCdf0_nVW4seBwrg" htmlUrl="https://www.youtube.com/@NullLabs"/>
+			<outline type="rss" text="That DevOps Guy" title="That DevOps Guy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFe9-V_rN9nLqVNiI8Yof3w" htmlUrl="https://www.youtube.com/@MarcelDempers"/>
+			<outline type="rss" text="Tech By Matt" title="Tech By Matt" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSy7VGPa8Np8PNjV7Mz-xZg" htmlUrl="https://www.youtube.com/@TechByMattB"/>
+			<outline type="rss" text="ServerOK" title="ServerOK" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRv3ih7XRDNVci_TLaLJTFA" htmlUrl="https://www.youtube.com/@ServerOKin"/>
+			<outline type="rss" text="Tinkernut" title="Tinkernut" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZDA1kA3y3EIg25BpcHSpwQ" htmlUrl="https://www.youtube.com/@Tinkernut"/>
+			<outline type="rss" text="Self Hosted" title="Self Hosted" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvxxF88C8vTMogGWghs9ehg" htmlUrl="https://www.youtube.com/@selfhosted918"/>
+			<outline type="rss" text="DataCraft Backbone" title="DataCraft Backbone" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkFxhKB3S-JzvbXzYrZGFqw" htmlUrl="https://www.youtube.com/@DataCraftBackbone"/>
+			<outline type="rss" text="Rawkode Academy" title="Rawkode Academy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrber_mFvp_FEF7D9u8PDEA" htmlUrl="https://www.youtube.com/@RawkodeAcademy"/>
+			<outline type="rss" text="g0lden" title="g0lden" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsydEarQM7lEn8Pz2N7PEdA" htmlUrl="https://www.youtube.com/@g0lden1"/>
+			<outline type="rss" text="AI Community" title="AI Community" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_xuzDzGpuwXJw1i9_CWHjQ" htmlUrl="https://www.youtube.com/@AI_Community"/>
+			<outline type="rss" text="The Browser Company" title="The Browser Company" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCT5qXmLacW_a4DE-3EgeOiQ" htmlUrl="https://www.youtube.com/@TheBrowserCompany"/>
+			<outline type="rss" text="Damphuen.dk" title="Damphuen.dk" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTzNRVu0DUA-ZXWVxQHoTbQ" htmlUrl="https://www.youtube.com/@DamphuenDkshop"/>
+			<outline type="rss" text="Scribe" title="Scribe" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGUARBXzB_qTp2eMtvxR0uA" htmlUrl="https://www.youtube.com/@scribehow"/>
+			<outline type="rss" text="The Wix Wiz" title="The Wix Wiz" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC33fIWO8Qs82Hk67v-e5d1Q" htmlUrl="https://www.youtube.com/@thewixwiz"/>
+			<outline type="rss" text="Samuel Gregory (0x5am5)" title="Samuel Gregory (0x5am5)" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzeFD1by4aT8RxBwSR7IzDA" htmlUrl="https://www.youtube.com/@webflowandcode"/>
+			<outline type="rss" text="Wasp" title="Wasp" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo2844eOut8irL6XIj96hFw" htmlUrl="https://www.youtube.com/@wasplang"/>
+			<outline type="rss" text="Brilliant Labs" title="Brilliant Labs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkLHl6d-nvvIL08aeettG9g" htmlUrl="https://www.youtube.com/@brilliantlabsAR"/>
+			<outline type="rss" text="Hallden" title="Hallden" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWr0mx597DnSGLFk1WfvSkQ" htmlUrl="https://www.youtube.com/@Hallden_"/>
+			<outline type="rss" text="Webstudio" title="Webstudio" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUYMpRzcCki8OmVax5LVDYg" htmlUrl="https://www.youtube.com/@getwebstudio"/>
+			<outline type="rss" text="Frontend Hero" title="Frontend Hero" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwJBZg7Udi8mVuEHYQ5iB0g" htmlUrl="https://www.youtube.com/@FrontendHero"/>
+			<outline type="rss" text="VisitDenmark" title="VisitDenmark" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvcKAjtJAzVr0vgLNR5w7Fg" htmlUrl="https://www.youtube.com/@visitdenmark"/>
+			<outline type="rss" text="Mike Powers" title="Mike Powers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJJqeW8My07X2r_WXokg-Cw" htmlUrl="https://www.youtube.com/@itsmikepowers"/>
+			<outline type="rss" text="Coding with Lewis" title="Coding with Lewis" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWI-ohtRu8eEeDj93hmUsUQ" htmlUrl="https://www.youtube.com/@CodingWithLewis"/>
+			<outline type="rss" text="Retool" title="Retool" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4ylXhymUTdH6frTS0RE3TQ" htmlUrl="https://www.youtube.com/@Retool"/>
+			<outline type="rss" text="George W" title="George W" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMGNAonELYbHpl_k0ovPpCg" htmlUrl="https://www.youtube.com/@gorgeousgeorgous"/>
+			<outline type="rss" text="NO-CODE NINJA 🥷 AUTOMATE EVERYTHING" title="NO-CODE NINJA 🥷 AUTOMATE EVERYTHING" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC63dMbmWTPsIRoqa_sJM9kQ" htmlUrl="https://www.youtube.com/@flowtivityconsulting"/>
+			<outline type="rss" text="Gateway IT Tutorials" title="Gateway IT Tutorials" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC3NktjU1zEib8hJoEAxiDA" htmlUrl="https://www.youtube.com/@GatewayITTutorials"/>
+			<outline type="rss" text="i12bretro" title="i12bretro" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNmLR_9Ec8NydshHNPnC5Jw" htmlUrl="https://www.youtube.com/@i12bretro"/>
+			<outline type="rss" text="Hans Thisen" title="Hans Thisen" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCni-QWSYGsS_u4xpHcYyL0g" htmlUrl="https://www.youtube.com/@hansthisen"/>
+			<outline type="rss" text="DIGITAL INCOME PROJECT" title="DIGITAL INCOME PROJECT" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqaFXphJatlJEv2WfLtC-eg" htmlUrl="https://www.youtube.com/@DIGITALINCOMEPROJECT"/>
+			<outline type="rss" text="Futurepedia" title="Futurepedia" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_RovKmk0OCbuZjA8f08opw" htmlUrl="https://www.youtube.com/@futurepedia_io"/>
+			<outline type="rss" text="john kristensen" title="john kristensen" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoLkYGfQj1G0Bi4muYw8R1Q" htmlUrl="https://www.youtube.com/@johnkristensen652"/>
+			<outline type="rss" text="gotbletu" title="gotbletu" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA" htmlUrl="https://www.youtube.com/@gotbletu"/>
+			<outline type="rss" text="Dreams of Autonomy" title="Dreams of Autonomy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEEVcDuBRDiwxfXAgQjLGug" htmlUrl="https://www.youtube.com/@dreamsofautonomy"/>
+			<outline type="rss" text="TechGuru" title="TechGuru" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPmCidEAN9JrG1OwahlAkIQ" htmlUrl="https://www.youtube.com/@TechGuruDirect"/>
+			<outline type="rss" text="Belinda Ercan" title="Belinda Ercan" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxvSr5kwfPwWBp9aTvyO2iw" htmlUrl="https://www.youtube.com/@BelindaErcan"/>
+			<outline type="rss" text="Gerard O&apos;Brien" title="Gerard O&apos;Brien" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCx_99HX_c7Gte4sJzjXV4mw" htmlUrl="https://www.youtube.com/@gerardobrien"/>
+			<outline type="rss" text="Distro Domain" title="Distro Domain" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwGPwkDMaQFfcyeV7nlec0Q" htmlUrl="https://www.youtube.com/@distrodomain"/>
+			<outline type="rss" text="HomeTinyLab" title="HomeTinyLab" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCow0eS6flBhFZLSVzutNqvg" htmlUrl="https://www.youtube.com/@hometinylab"/>
+			<outline type="rss" text="LowEndBox TV" title="LowEndBox TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHzgAkbJ-BFOmX5_IibWyzQ" htmlUrl="https://www.youtube.com/@LowEndBoxTV"/>
+			<outline type="rss" text="Tony Teaches Tech" title="Tony Teaches Tech" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWPJwoVXJhv0-ucr3pUs1dA" htmlUrl="https://www.youtube.com/@TonyTeachesTech"/>
+			<outline type="rss" text="TechHut" title="TechHut" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w" htmlUrl="https://www.youtube.com/@TechHut"/>
+			<outline type="rss" text="Learn Linux TV" title="Learn Linux TV" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA" htmlUrl="https://www.youtube.com/@LearnLinuxTV"/>
+			<outline type="rss" text="Hardware Haven" title="Hardware Haven" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgdTVe88YVSrOZ9qKumhULQ" htmlUrl="https://www.youtube.com/@HardwareHaven"/>
+			<outline type="rss" text="IBRACORP" title="IBRACORP" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7aW7chIafJG6ECYAd3N5uQ" htmlUrl="https://www.youtube.com/@IBRACORP"/>
+			<outline type="rss" text="kubevirt-manager" title="kubevirt-manager" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxObwe49g37ZD-opqVSoGOw" htmlUrl="https://www.youtube.com/@KubevirtMGR"/>
+			<outline type="rss" text="Hak5" title="Hak5" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ" htmlUrl="https://www.youtube.com/@hak5"/>
+			<outline type="rss" text="Craft Computing" title="Craft Computing" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp3yVOm6A55nx65STpm3tXQ" htmlUrl="https://www.youtube.com/@CraftComputing"/>
+			<outline type="rss" text="Just me and Opensource" title="Just me and Opensource" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6VkhPuCCwR_kG0GExjoozg" htmlUrl="https://www.youtube.com/@justmeandopensource"/>
+			<outline type="rss" text="DevOps Toolkit" title="DevOps Toolkit" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfz8x0lVzJpb_dgWm9kPVrw" htmlUrl="https://www.youtube.com/@DevOpsToolkit"/>
+			<outline type="rss" text="DevOps Journey" title="DevOps Journey" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4Snw5yrSDMXys31I18U3gg" htmlUrl="https://www.youtube.com/@DevOpsJourney"/>
+			<outline type="rss" text="PolitePixels" title="PolitePixels" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6WM7vi79_ltJbHDugBKiLg" htmlUrl="https://www.youtube.com/@PolitePixels"/>
+			<outline type="rss" text="DevOps Directive" title="DevOps Directive" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4MdpjzjPuop_qWNAvR23JA" htmlUrl="https://www.youtube.com/@DevOpsDirective"/>
+			<outline type="rss" text="Raid Owl" title="Raid Owl" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9evhW4JB_UdXSLeZGy8lGw" htmlUrl="https://www.youtube.com/@RaidOwl"/>
+			<outline type="rss" text="Kalos Likes Computers" title="Kalos Likes Computers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSsHJShN9qNXqXD1j2emaqg" htmlUrl="https://www.youtube.com/@KalosLikesComputers"/>
+			<outline type="rss" text="PixelGRID" title="PixelGRID" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZCI7Snp9YM9WkFOiM44hDQ" htmlUrl="https://www.youtube.com/@PixelGRID"/>
+			<outline type="rss" text="TheVault" title="TheVault" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnNxD1DflBkm5pEqD9m56SQ" htmlUrl="https://www.youtube.com/@TheVault_Media"/>
+			<outline type="rss" text="newtechevolution" title="newtechevolution" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOQVoYzsSlRnDNIBWe2dY4g" htmlUrl="https://www.youtube.com/@newtechevolution"/>
+		</outline>
+	</body>
+</opml>
