@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" office:version="1.2">
+  <office:font-face-decls>
+    <style:font-face style:name="Courier New" style:font-family-generic="modern" style:font-pitch="fixed" svg:font-family="'Courier New'" />
+  </office:font-face-decls>
+  <office:automatic-styles>
+    <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Formula"><style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" style:wrap="none" /></style:style>
+    <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Formula"><style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" /></style:style>
+  </office:automatic-styles>
+<office:body>
+<office:text>
+<text:p text:style-name="Title">YouTube Subscriptions as RSS</text:p>
+<text:h text:style-name="Heading_20_1" text:outline-level="1">YouTube
+Subscriptions</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">CoderOne</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">zanginator-tech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">The Next
+Wave</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">ManuAGI -
+AutoGPT Tutorials</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Pixel
+&amp; Bracket</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Josh
+Pocock</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Fowler’s
+Makery and Mischief</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Matea
+&amp; Milos</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">TheAIGRID</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">WorldofAI</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Creator
+Magic</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Cole
+Medin</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Jack
+Roberts</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Ben
+AI</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">NetworkChuck</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Greg
+Isenberg</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">All About
+AI</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">WeAreNoCode</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Zoltan
+Kaszas</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">AICodeKing</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Dry Bar
+Comedy</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Chris
+Titus Tech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">800 Pound
+Gorilla Media</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Income
+stream surfers</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Ray
+Fernando</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Nick
+Saraev</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">AI
+LABS</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">AgileDevArt</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Corbin
+Brown</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Supabase</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Techdox</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Tool Use -
+A.I. Conversations</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Stephen G.
+Pope</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Matthew
+Berman</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">techfren</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Developers
+Digest</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">tobi
+tackles tech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">MattVidPro
+AI</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Eduards
+Ruzga</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">David
+Ondrej</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Ash</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Web Dev
+Cody</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">RaffyTaphyASMR</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Bob Doyle
+Media</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">The Linux
+Experiment</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Trevor
+Sullivan</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">The AI
+Advantage</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">AI
+Jason</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">NetSec</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">MRP</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">LXD</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Relevance
+AI</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Techno
+Tim</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Pure
+Unintentional ASMR</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Novaspirit
+Tech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">AI in
+practice</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DB
+Tech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">apalrd’s
+adventures</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Skill Leap
+AI</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Jim’s
+Garage</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">NETVN82</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Matt
+Williams</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Monolink</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Grow with
+Alex</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Fireship</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">AI
+Master</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Beyond
+Fireship</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Christian
+Lempa</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Dify</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Appwrite</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">David
+Bombal</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Codevolution</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Replit</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Tech
+Labs</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Jono
+Catliff</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Mr
+Lemon</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Lawrence
+Systems</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">FOSDEM</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">VirtualizationHowto</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">ETA
+PRIME</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Piepop101</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Coding
+With Adam</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Mitch
+Asser</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Wolfgang’s
+Channel</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Unscripted
+Coding</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Titus Tech
+Talk</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">SAMTIME</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Matt
+Wolfe</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Kyle
+Balmer | AI for Entrepreneurs</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Codex
+Community</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DiscoVR
+Tetiana</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">ExplainingComputers</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">ZacsTech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Supercheap
+Auto</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Unsupervised
+Learning</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">TroubleChute</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Tech
+Hustler</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">AI
+Search</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">The Linux
+Cast</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Shane
+Hummus</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Cloud
+Gaming Battle</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Canonical
+Ubuntu</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Altcoin
+Daily</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Theo -
+t3․gg</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">SavvyNik</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">BigBearTechWorld</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Britec09</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Gamertag
+VR</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Mischa van
+den Burg</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Open Bar
+Comedy</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Dr.
+EyeGuy</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DCX
+Gaming</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Scotti-BYTE
+Enterprise Consulting Services</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Nico Knows
+Tech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Marques
+Brownlee</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">All Things
+Comedy</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Chrome
+Unboxed</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Adam
+Muller Comedy</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">The
+Mysticle</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Akamai
+Developer</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Kubesimplify</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Dapp
+University</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">MikeTheTech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Kasm
+Workspaces</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Sumsub</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Appsmith</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Tailscale</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Immersed</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">John
+Hammond</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">LinuxNext</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Sauber-Lab
+UK</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">kilObit</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Stewart
+Gauld</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">CodeBrew</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Eddy
+Buckhorn</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">theurbanpenguin</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">FastTrack
+Software</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DOF
+TWOGEE</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">sn0ren</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Data
+Slayer</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">A Little
+More Dry Bar</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">ThrillSeeker</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Andy’s Vr
+Reviews</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">VR
+ManCave</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Daniel
+Stenberg</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Ron White
+Memory Expert - Memory Training &amp; Brain Training</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Day
+Dreamer VR</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">TechFlow</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">ThatsDoable
+VR</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Robin J
+Kavanagh</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Eevnos
+VR</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">MassageASMR</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Noted</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">RÜFÜS DU
+SOL</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">NTO</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Raske
+Plader</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Giolì
+&amp; Assia</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Trade
+Tactics</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Thomas
+Midena</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DoItYourselfDad</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">JemJem</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Vasileios
+Adamos</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">TechLead</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">JimmyRose
+- Automation &amp; Productivity</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">School Of
+Freelancing</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Tiny
+Automations</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">PetterTech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">TechNolli</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">OpenAI</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Brandon
+Stecklein</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Justin
+Garrison</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Null
+Labs</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">That
+DevOps Guy</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Tech By
+Matt</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">ServerOK</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Tinkernut</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Self
+Hosted</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DataCraft
+Backbone</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Rawkode
+Academy</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">g0lden</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">AI
+Community</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">The
+Browser Company</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Damphuen.dk</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Scribe</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">The Wix
+Wiz</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Samuel
+Gregory (0x5am5)</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Wasp</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Brilliant
+Labs</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Hallden</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Webstudio</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Frontend
+Hero</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">VisitDenmark</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Mike
+Powers</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Coding
+with Lewis</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Retool</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">George
+W</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">NO-CODE
+NINJA 🥷 AUTOMATE EVERYTHING</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Gateway IT
+Tutorials</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">i12bretro</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Hans
+Thisen</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DIGITAL
+INCOME PROJECT</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Futurepedia</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">john
+kristensen</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">gotbletu</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Dreams of
+Autonomy</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">TechGuru</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Belinda
+Ercan</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Gerard
+O’Brien</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Distro
+Domain</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">HomeTinyLab</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">LowEndBox
+TV</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Tony
+Teaches Tech</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">TechHut</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Learn
+Linux TV</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Hardware
+Haven</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">IBRACORP</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">kubevirt-manager</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Hak5</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Craft
+Computing</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Just me
+and Opensource</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DevOps
+Toolkit</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DevOps
+Journey</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">PolitePixels</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">DevOps
+Directive</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Raid
+Owl</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">Kalos
+Likes Computers</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">PixelGRID</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">TheVault</text:h>
+<text:h text:style-name="Heading_20_2" text:outline-level="2">newtechevolution</text:h>
+</office:text>
+</office:body>
+</office:document-content>
